@@ -6,3 +6,11 @@ Terraform deployment successful
 Day 2
 Docker deployed successfully
 Cyber security policies at the workplace
+
+Day 3
+Netcom course,
+Github actions
+DevSecOps
+Kali linux
+
+Day 4
